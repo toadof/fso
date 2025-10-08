@@ -5,7 +5,7 @@ sequenceDiagram
     
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/spa
     activate server
-    Note right of browser: the browser 
+    
     server-->>browser: HTML document
     deactivate server
     
