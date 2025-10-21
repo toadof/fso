@@ -1,0 +1,113 @@
+[33mcommit beeb436b44f3ef0c9a69fb11423920bcbba78436[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: toadof <gautampl894@gmail.com>
+Date:   Mon Oct 13 15:03:46 2025 +0530
+
+    Part 1
+
+[33mcommit 361e129d3ab5023d92dc9584c1e74f587b71ca4a[m
+Author: toadof <gautampl894@gmail.com>
+Date:   Mon Oct 13 14:54:42 2025 +0530
+
+    Add .gitignore files
+
+[33mcommit 084dc0fe77ec2dabaeac804b2f872cd3cff94196[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Mon Oct 13 12:47:21 2025 +0530
+
+    Create README.md
+
+[33mcommit e54bebed15effe4cd13eee79e2be9953b6d2c972[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Mon Oct 13 12:46:44 2025 +0530
+
+    Create README.md
+
+[33mcommit 97479294e0f33dd8dce8d65e5c75b8cacf5db8a6[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Mon Oct 13 12:45:23 2025 +0530
+
+    Create README.md
+
+[33mcommit 1b0a36a5bcd8cee795c711fa8e716db2a0764284[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 21:13:26 2025 +0530
+
+    Rename spa.md to 2spa.md
+
+[33mcommit ac54ad1be9626a148a25dd8c497f56d7f548741b[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 21:13:10 2025 +0530
+
+    Rename new_note_spa.md to 3new_note_spa.md
+
+[33mcommit 44800f8878527b290b99939cdf6713cfe6d4a710[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 21:12:55 2025 +0530
+
+    Rename new_note.md to 1new_note.md
+
+[33mcommit 92ddeb985ab9edf7891ec9da423fb93a1cc1b00d[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 21:12:26 2025 +0530
+
+    Update spa.md
+
+[33mcommit 30be7033298bbc4c6c54b64962e315e98ae1c3fd[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 21:12:00 2025 +0530
+
+    Update spa.md
+
+[33mcommit bf6a5ef508da1baf8a64dde5cbbb61a1a0ec4286[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 21:06:44 2025 +0530
+
+    Update new_note.md
+
+[33mcommit 757e3af87436e69dfdc47473bb40abaa95c76d27[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 20:50:55 2025 +0530
+
+    Create new_note_spa.md
+
+[33mcommit 6af7062664c8404f375d7513986910dee1a0ee4a[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 20:40:05 2025 +0530
+
+    Create spa.md
+
+[33mcommit cd9a9ea330dbf14830778ff065eddd3ae94b55aa[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 20:27:38 2025 +0530
+
+    Update new_note.md
+
+[33mcommit 2e9b7e594bff10a3fabe06eb1b6f2b263282f37e[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 20:18:07 2025 +0530
+
+    Rename new_note.md to part 0/new_note.md
+
+[33mcommit 072916bb426072b129d1381a9366e59aad90660a[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 20:15:37 2025 +0530
+
+    Create new_note.md
+
+[33mcommit 311a059f03b406d034581edf217cf8b560b76474[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 20:12:38 2025 +0530
+
+    Delete new_note.md
+
+[33mcommit a81f4f7a327f1f903dd77d25a5f2b5d3cb6845cd[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 20:09:14 2025 +0530
+
+    Update new_note.md
+
+[33mcommit b34a5970fa4039670618023668b65727eb4d87f3[m
+Author: toadof <gautampl444@gmail.com>
+Date:   Wed Oct 8 20:07:13 2025 +0530
+
+    Create new_note.md
